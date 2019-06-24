@@ -1,6 +1,5 @@
-¤û¦×ÄÑ
-dumpl
-Âû¦×ÄÑ
+¤û¦×
+dumpling
 
 
 
@@ -8,4 +7,12 @@ dumpl
 
 pizza
 hotdog
+
+
+mouse
+
+
+
+
+
 
